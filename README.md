@@ -1,1 +1,3 @@
 # For-testing
+Ce repository me sert uniquement pour TESTER diverses informations... sur GitHub.
+Il sera sans utilité...
